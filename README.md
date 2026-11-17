@@ -1,7 +1,11 @@
-# 6 Core Projects for AZ-104 Prep
+# 5 Core Projects for AZ-104 Prep
 
-Project1: VM-Networking
+Project1: VMs-RBAC
 
-Project2: Storage-AZ Files
+Project2: VNets-PvtEndpoints
 
-Project3: entra-rbac-policy
+Project3: SAs-Blob Access Tiers
+
+Project4: EntraID-Conditonal Access
+
+Project5: AZ Monitor-Log Analytics
