@@ -1,5 +1,3 @@
-# AZ-104 Projects
-6 Core Projects for AZ-104 Prep
+# 6 Core Projects for AZ-104 Prep
 
-# Test
-Test
+Project1: VM-Networking
