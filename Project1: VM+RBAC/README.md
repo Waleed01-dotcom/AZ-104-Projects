@@ -7,15 +7,19 @@
 - Specific OS
 - Specific Azure region
 
+
 2) Create an Entra ID user
 - This user will be used for RBAC testing
+
 
 3) Create a custom RBAC role
 - Assign it specifically to the VM
 - Practice least privilege
 
+
 4) Create an Azure Policy
 - Require a specific tag on resources in the Resource Group
+
 
 5) Configure security + cost management
 - Azure Disk Encryption
