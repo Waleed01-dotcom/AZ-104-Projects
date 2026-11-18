@@ -1,6 +1,6 @@
 # 5 Core Projects for AZ-104 Prep
 
-Project1: VMs + RBAC
+Project1: VMs + RBAC + Policy
 
 Project2: VNets + PvtEndpoints
 
