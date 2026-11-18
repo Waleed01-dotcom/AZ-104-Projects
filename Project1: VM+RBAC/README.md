@@ -1,26 +1,18 @@
-# Project1: VM+RBAC
+# Project1: VM+RBAC+Policy
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/da0162de-2b3c-473f-b090-6cb077ecad21" />
 
-# 1) Deploy an Azure VM
-- Specific VM size
-- Specific OS
-- Specific Azure region
+# 1) Vm
+Deploy a vm in Azure with a specific VM size, operating system, and regioN
 
+# 2) Custom RBAC Role Assignment
+Create an Entra ID user and assign them a custom role-based access control (RBAC) role scoped directly to that specific virtual machine (2:15).
 
-# 2) Create an Entra ID user
-- This user will be used for RBAC testing
+# 3) Azure Policy
+Create an Azure Policy assignment that enforces a tagging requirement on all resources within your resource group (2:21).
 
+# 4) Disk Encryption
+Configure encryption on the virtual machine using Azure Disk Encryption (2:21).
 
-# 3) Create a custom RBAC role
-- Assign it specifically to the VM
-- Practice least privilege
-
-
-# 4) Create an Azure Policy
-- Require a specific tag on resources in the Resource Group
-
-
-# 5) Configure security + cost management
-- Azure Disk Encryption
-- Cost/budget alert at a defined spending threshold
+# 5) Cost Management Alert
+Set up a cost alert (budget alert) configured to trigger at a specific spend threshold
