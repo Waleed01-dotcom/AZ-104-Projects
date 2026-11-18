@@ -7,6 +7,7 @@ Deploy a VM in Azure with a specific VM Size, OS, and Region
 
 # 2) Custom RBAC Role Assignment
 Create an Entra ID User
+
 Assign them a Custom RBAC Role, Scoped directly to the Specific VM
 
 # 3) Azure Policy
