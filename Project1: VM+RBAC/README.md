@@ -2,7 +2,7 @@
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/da0162de-2b3c-473f-b090-6cb077ecad21" />
 
-# 1) Vm
+# 1) VM
 Deploy a vm in Azure with a specific VM size, operating system, and regioN
 
 # 2) Custom RBAC Role Assignment
