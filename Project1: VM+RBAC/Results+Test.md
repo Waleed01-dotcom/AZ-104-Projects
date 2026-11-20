@@ -65,7 +65,29 @@ Added Required Tag to Existing Non-Compliant Resources, as well as attempted to 
 <img src="Screenshots/SS10.png" alt="VM Creation">
 
 
-# 4) Azure Disk Encryption (ADE)
+# 4) Azure Disk Encryption (Bitlocker Encr)
 
-Created a Key Vault to store ADE Key (KEK) in
+Created a Key Vault and an ADE Key (KEK), stored in Key Vault
 
+Setup ADE under VM Disks Blade, using KEK from Key Vault
+
+Choose to Encrypt OS Disk or OS + Data Disks
+
+(ADE Only supports VM Sizes V5 or Older)
+
+ADE Setup Installs an ADE Ext on the VM
+
+Stores a BEK Secret in Key Vault for Disk's Bitlocker Encryption
+
+Succeeded as shown below
+
+<img src="Screenshots/SS11 ADE.png" alt="VM Creation">
+
+<img src="Screenshots/SS12.png" alt="VM Creation">
+
+<img src="Screenshots/SS13.png" alt="VM Creation">
+
+<img src="Screenshots/SS14.png" alt="VM Creation">
+
+
+# 5) Cost Mngmt Alert
