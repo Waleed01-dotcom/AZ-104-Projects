@@ -1,6 +1,6 @@
 # 1) VM Creation
 
-Created a 2019 DC VM, "VM1-Project1"
+- Created a 2019 DC VM, "VM1-Project1"
 
 Size: Standard L2aos v4 (2 vcpus, 16 GiB memory)
 
