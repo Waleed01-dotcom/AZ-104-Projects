@@ -5,6 +5,8 @@ Size: Standard L2aos v4 (2 vcpus, 16 GiB memory)
 
 In East US
 
+(Screenshots may show a 2025 DC VM, with Size in D Series, that was changed as ADE Task ahead is Not Compatible with that setup)
+
 <img src="Screenshots/VM RBAC SS1.png" alt="VM Creation">
 
 # 2) Custom RBAC Role Assignment
