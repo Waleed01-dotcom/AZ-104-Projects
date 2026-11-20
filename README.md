@@ -2,10 +2,10 @@
 
 Project1: VMs + RBAC + Policy
 
-Project2: VNets + PvtEndpoints
+Project2: VNets + SAs + PvtEndpoint
 
-Project3: SAs + Blob Access Tiers
+Project3: Monitoring + Backup
 
 Project4: EntraID + Conditonal Access
 
-Project5: AZ Monitor + Log Analytics
+Project5: App Services + Autoscaling
