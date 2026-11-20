@@ -52,7 +52,7 @@ Added Required Tag to Existing Non-Compliant Resources, as well as attempted to 
 
 (Excluded Resources are also Blocked from Compliance List, as they are not Evaluated At All)
 
-<img src="Screenshots/SS5.png" alt="VM Creation">
+<img src="Screenshots/SS5 AZ Policy.png" alt="VM Creation">
 
 <img src="Screenshots/SS6.png" alt="VM Creation">
 
