@@ -18,5 +18,7 @@ Added the Custom RBAC to "VM1-Project1" Scope
 Assigned to Test User "Project1User"
 
 <img src="Screenshots/SS2.png" alt="VM Creation">
+
 <img src="Screenshots/SS3.png" alt="VM Creation">
+
 <img src="Screenshots/SS4.png" alt="VM Creation">
