@@ -91,3 +91,10 @@
 
 
 # 5) Cost Mngmt Alert
+
+- Setup a Budget Alert at a Threshold
+- Succeeded
+
+  <img src="Screenshots/SS15.png" alt="VM Creation">
+
+  <img src="Screenshots/SS16.png" alt="VM Creation">
