@@ -18,6 +18,6 @@
 - Export or write an ARM template to Automate Redeployment of this Entire Environment
 
 
-# 6) Verification
-- Test Connectivity: Confirm that a resource inside the VNet can reach the storage account, while a resource outside the VNet cannot
+# 6) Verification:
+- Test Connectivity: Confirm that a Resource inside the VNet can reach the storage account, while a resource outside the VNet cannot
 - Infrastructure as Code (IaC): Practice Redeploying the Setup using ARM template
