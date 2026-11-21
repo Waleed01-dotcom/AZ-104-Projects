@@ -22,5 +22,5 @@
 
 
 # 6) Verification:
-- Test Connectivity: Confirm that a VM Resource ins VNet can reach SA, while a Resource VM outside VNet cannot
+- Test Connectivity: Confirm that a VM in VNet "Subnet-Resources" can reach SA's Pvt Endpoint "Subnet-PvtEndpoint", while a VM outside the VNet cannot
 - IaC: Practice Redeploying this Setup via ARM Template
