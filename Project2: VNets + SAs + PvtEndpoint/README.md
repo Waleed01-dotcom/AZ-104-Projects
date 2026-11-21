@@ -5,19 +5,22 @@
 # 1) VNet with 2 Subnets:
 - Create one subnet for your resources (such as a VM) and a dedicated second subnet for Private Endpoints
 
-# 2) Network Security Group (NSG):
-- Configure Inbound & Outbound Security Rules, that restrict Network Traffic strictly to what's Explicitly Allowed
 
-# 3) Storage Account with Public Access Disabled:
+# 2) Storage Account with Public Access Disabled:
 - Create a SA, Disable all Public Network Access
 
-# 4) Private Endpoint:
+# 3) Private Endpoint:
 - Deploy a Private Endpoint that connects SA directly to VNet
+
+
+# 4) Network Security Group (NSG):
+- Configure Inbound & Outbound Security Rules, that restrict Network Traffic strictly to what's Explicitly Allowed
+
 
 # 5) ARM Template:
 - Export or write an ARM template to Automate Redeployment of this Entire Environment
 
 
 # 6) Verification:
-- Test Connectivity: Confirm that a Resource inside the VNet can reach the storage account, while a resource outside the VNet cannot
-- Infrastructure as Code (IaC): Practice Redeploying the Setup using ARM template
+- Test Connectivity: Confirm that a VM Resource ins VNet can reach SA, while a Resource VM outside VNet cannot
+- IaC: Practice Redeploying this Setup via ARM Template
